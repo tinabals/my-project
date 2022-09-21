@@ -5,7 +5,7 @@ h1{
 img{
     display:block;
     margin: 0 auto;
-    width:300px;
+  
 }
 form{
     margin-top:20px;
@@ -14,4 +14,11 @@ form{
 }
 form input {
     padding:10px 20px;
+}
+
+.btn{
+    display:block;
+    margin: 5px auto;
+    width:200px;
+
 }
