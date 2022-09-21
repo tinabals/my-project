@@ -1,4 +1,9 @@
 h1{
     text-align: center;
-    color:blue;
+    color:red;
+}
+
+form{
+    display:block;
+    margin :0 auto;
 }
